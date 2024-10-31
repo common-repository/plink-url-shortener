@@ -1,0 +1,203 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WP URL Shortener\n"
+"POT-Creation-Date: 2017-01-25 11:33+0330\n"
+"PO-Revision-Date: 2017-01-25 11:33+0330\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: fa_IR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.11\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-WPHeader: plink_shorturl.php\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: plink_shorturl.php:19 template/settings.tpl.php:2
+#: template/settings.tpl.php:88
+msgid "Advertise"
+msgstr ""
+
+#: plink_shorturl.php:20
+msgid "Get API"
+msgstr ""
+
+#: plink_shorturl.php:197
+msgid "Plink.ir Plugin Settings"
+msgstr ""
+
+#: plink_shorturl.php:197
+msgid "WP Url Shortener"
+msgstr ""
+
+#: plink_shorturl.php:198 plink_shorturl.php:199
+msgid "WP Short URLs by PLINK.IR"
+msgstr ""
+
+#: plink_shorturl.php:198 plink_shorturl.php:333
+msgid "Statistics"
+msgstr ""
+
+#: plink_shorturl.php:199
+msgid "Settings"
+msgstr ""
+
+#: plink_shorturl.php:319
+msgid "Api key Setting"
+msgstr ""
+
+#: plink_shorturl.php:326 template/settings.tpl.php:29
+msgid "Enter Api key"
+msgstr ""
+
+#: plink_shorturl.php:327 template/settings.tpl.php:30
+msgid "Get API Key?"
+msgstr ""
+
+#: plink_shorturl.php:341
+msgid "Long URL"
+msgstr ""
+
+#: plink_shorturl.php:342
+msgid "Short URL"
+msgstr ""
+
+#: plink_shorturl.php:343
+msgid "Details"
+msgstr ""
+
+#: plink_shorturl.php:344
+msgid "Clicks"
+msgstr ""
+
+#: plink_shorturl.php:357 plink_shorturl.php:400
+msgid "More Details"
+msgstr ""
+
+#: plink_shorturl.php:377
+msgid "Short Link Stats"
+msgstr ""
+
+#: plink_shorturl.php:398
+msgid " Clicks"
+msgstr ""
+
+#: template/public.tpl.php:3
+msgid "Shortlink"
+msgstr ""
+
+#: template/public.tpl.php:11
+msgid "Tweet this link"
+msgstr ""
+
+#: template/public.tpl.php:11
+msgid "Share on Google Plus"
+msgstr ""
+
+#: template/public.tpl.php:11
+msgid "Share on Facebook"
+msgstr ""
+
+#: template/public.tpl.php:11
+msgid "Share on Delicious"
+msgstr ""
+
+#: template/public.tpl.php:11
+msgid "Stumble Upon"
+msgstr ""
+
+#: template/settings.tpl.php:2 template/settings.tpl.php:88
+msgid "Plink"
+msgstr ""
+
+#: template/settings.tpl.php:2 template/settings.tpl.php:88
+msgid "Advertise with us"
+msgstr ""
+
+#: template/settings.tpl.php:2 template/settings.tpl.php:88
+msgid "Developer API"
+msgstr ""
+
+#: template/settings.tpl.php:2 template/settings.tpl.php:88
+msgid "Developer API &amp; Extensions"
+msgstr ""
+
+#: template/settings.tpl.php:2 template/settings.tpl.php:88
+msgid "Report a link"
+msgstr ""
+
+#: template/settings.tpl.php:6
+msgid "Usage & Shortcodes"
+msgstr ""
+
+#: template/settings.tpl.php:9
+msgid ""
+"To display the Short link of current page use the following shortcode on "
+"post, page or sidebar widget"
+msgstr ""
+
+#: template/settings.tpl.php:17
+msgid ""
+"To quickly shorten any External URL within post use the following short code"
+msgstr ""
+
+#: template/settings.tpl.php:19
+msgid "Example: Using"
+msgstr ""
+
+#: template/settings.tpl.php:19
+msgid "as extrnal link, then use following code"
+msgstr ""
+
+#: template/settings.tpl.php:35
+msgid "Display Short URL"
+msgstr ""
+
+#: template/settings.tpl.php:40 template/settings.tpl.php:52
+msgid "Yes"
+msgstr ""
+
+#: template/settings.tpl.php:41 template/settings.tpl.php:53
+msgid "No"
+msgstr ""
+
+#: template/settings.tpl.php:47
+msgid "Display Social Icons"
+msgstr ""
+
+#: template/settings.tpl.php:59
+msgid "Domain"
+msgstr ""
+
+#: template/settings.tpl.php:75
+msgid "Save"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "Plink URL Shortener"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "http://blog.plink.ir/wordpress-shorten-url-plugin/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"Shortens URLS of your blog posts via plink.ir service for twitter and can be "
+"used to hide referer"
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "alisaleem252, PersianLink"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://studio.envato.com/users/alisaleem252"
+msgstr ""
